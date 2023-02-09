@@ -1,0 +1,32 @@
+const SCREEN_KEYS = {
+    SPLASH: 'Splash',
+    SIGNIN: 'SignIn',
+    SIGNUP: 'SignUp',
+    OTP: 'OtpVerify',
+    VERIFICATION: 'Verification',
+    FORGOT_PASSWORD: 'ForgotPassword',
+    SETNEWPASSWORD : 'SetNewPassword',
+    ONBOARDINGSTACK : 'Onboarding',
+    HOMESTACK : 'HomeStack',
+    HOMESCREEN : 'Home',
+    DETAILS : 'Details',
+    WALLET : 'Wallet',
+    CREATE : 'Create',
+    PROFILE : 'Profile',
+    EDITPROFILE : 'EditProfile',
+    RECENTLY_VIEWED : 'Recently Viewed',
+    INVITATIONS : 'Invitations',
+    LOGOUT : 'Logout',
+    SEND_INVITES : 'Send Invites',
+    REVIEWS : 'Reviews',
+    SETTINGS : 'Settings',
+    BUSINESSINFO : 'BusinessInfo',
+    ORDERSUCCESS : 'Ordersuccess',
+    MYORDERS : 'Myorders',
+    ORDERDETAILS : 'OrderDetails',
+    PAYMENT : 'Payment',
+    SHIPERSHOME : 'ShipersHome',
+    ASSIGNORDERS : 'AssignOrders'
+};
+  
+export default SCREEN_KEYS;
